@@ -21,7 +21,8 @@ Two stereo images I1 (“bikeL.png”) and I2 (“bikeR.png”) of a static scen
 ![disparity_map](https://github.com/user-attachments/assets/54d8ac81-2731-4a42-b6ca-2cf188ccce34)
 
 Depth Map:
+
 ![depth_map](https://github.com/user-attachments/assets/62033df8-ce1e-4a7a-bd6b-1e96ad0606bc)
 
-3D Point Cloud:
+3D Point Cloud
 ![3D_PointCloud](https://github.com/user-attachments/assets/78047950-bc7a-455c-b3df-27fb5f794739)
