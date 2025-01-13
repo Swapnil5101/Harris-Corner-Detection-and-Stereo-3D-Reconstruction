@@ -1,0 +1,9 @@
+# Required libraries/modules
+
+cv2
+
+numpy
+
+matplotlib
+
+mpl_toolkits
